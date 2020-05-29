@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "author": "Luca(Wei) Chen <wei@cvluca.com>",
   "dependencies": {
+    "acorn-dynamic-import": "^4.0.0",
     "antd": "^3.26.17",
+    "eslint-config-react-app": "^5.2.1",
     "eslint-plugin-flowtype": "^2.50.3",
     "gatsby": "^2.22.9",
     "gatsby-cli": "^2.12.34",
@@ -26,7 +28,9 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
     "react-redux": "^7.2.0",
+    "react-refresh": "^0.8.3",
     "react-responsive": "^6.1.2",
+    "remark-math": "^2.0.1",
     "typescript": "^3.9.3"
   },
   "keywords": [
